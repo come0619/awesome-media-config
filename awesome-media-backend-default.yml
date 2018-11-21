@@ -1,3 +1,7 @@
+spring:
+  application:
+    name: awesome-media-backend
+
 server:
   port: 8090
 
