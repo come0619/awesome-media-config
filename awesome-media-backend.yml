@@ -6,4 +6,4 @@ management:
     enabled: false    
 
 promotion: action
-name: hero-edited
+name: hero-edited-awesome
